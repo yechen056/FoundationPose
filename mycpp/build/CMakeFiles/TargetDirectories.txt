@@ -1,0 +1,3 @@
+/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/build/CMakeFiles/mycpp.dir
+/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/build/CMakeFiles/edit_cache.dir
+/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/build/CMakeFiles/rebuild_cache.dir

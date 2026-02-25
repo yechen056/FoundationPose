@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dmycpp_EXPORTS -I/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/include -isystem /home/yechen/miniconda3/envs/tac/lib/python3.10/site-packages/pybind11/include -isystem /home/yechen/miniconda3/envs/tac/include/python3.10 -isystem /usr/include/eigen3  -std=c++14 -fopenmp -g3 -O3 -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/mycpp.dir/src/app/pybind_api.cpp.o -c /home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/src/app/pybind_api.cpp",
+  "file": "/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/src/app/pybind_api.cpp"
+},
+{
+  "directory": "/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dmycpp_EXPORTS -I/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/include -isystem /home/yechen/miniconda3/envs/tac/lib/python3.10/site-packages/pybind11/include -isystem /home/yechen/miniconda3/envs/tac/include/python3.10 -isystem /usr/include/eigen3  -std=c++14 -fopenmp -g3 -O3 -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/mycpp.dir/src/Utils.cpp.o -c /home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/src/Utils.cpp",
+  "file": "/home/yechen/Tool-Action-Comprehension/third_party/FoundationPose/mycpp/src/Utils.cpp"
+}
+]
